@@ -1,0 +1,2 @@
+# ChessGame
+ Experience the timeless game of chess with this 2-player game built in C#. Designed for local play, this game allows two players to compete against each other on a classic 8x8 chessboard. This game has all the standard chess rules enforced, including special moves such as castling, en-passant, and pawn promotion. The user-friendly interface ensures a smooth gameplay experience, making it easy for anyone to enjoy a match.
